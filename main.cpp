@@ -55,6 +55,49 @@ struct Frame                                      // g³ówna struktura s³u¿¹ca do
 };
 
 
+Vector3 setBestStartingPos() {
+	Vector3 bestPos(0, 0, 0);
+	float bestMinDist = -1.0f;
+
+	float mapWidth = env.field_size * env.number_of_columns;
+	float mapDepth = env.field_size * env.number_of_rows;
+
+	for (int i = 0; i < 10; i++) {
+		float rx = ((float)rand() / RAND_MAX) * mapWidth - (mapWidth/ 2.0f);
+		float rz = ((float)rand() / RAND_MAX) * mapDepth - (mapDepth/ 2.0f);
+
+		Vector3 candidate(rx, 0, rz);
+		float candidateMinDist = 1e10f;
+
+		EnterCriticalSection(&m_cs);
+		if (other_cars.empty()) {
+			candidateMinDist = 0;
+		}
+		else {
+			for (auto it = other_cars.begin(); it != other_cars.end(); ++it) {
+				Vector3 diff = candidate - it->second->state.vPos;
+				diff.y = 0; 
+
+				float d = diff.length();
+				if (d < candidateMinDist) {
+					candidateMinDist = d;
+				}
+			}
+		}
+		LeaveCriticalSection(&m_cs);
+
+		if (candidateMinDist > bestMinDist) {
+			bestMinDist = candidateMinDist;
+			bestPos = candidate;
+		}
+	}
+
+	bestPos.y = env.DistFromGround(bestPos.x, bestPos.z)
+		+ my_car->height / 2 + my_car->clearance;
+
+	return bestPos;
+}
+
 //******************************************
 // Funkcja obs³ugi w¹tku odbioru komunikatów 
 // UWAGA!  Odbierane s¹ te¿ komunikaty z w³asnej aplikacji by porównaæ obraz ekstrapolowany do rzeczywistego.
@@ -101,6 +144,8 @@ void InteractionInitialisation()
 	DWORD dwThreadId;
 
 	my_car = new MovableObject();    // tworzenie wlasnego obiektu
+
+	my_car->state.vPos = setBestStartingPos();
 
 	time_of_cycle = clock();             // pomiar aktualnego czasu
 

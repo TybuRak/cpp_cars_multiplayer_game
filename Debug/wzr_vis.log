@@ -1,112 +1,21 @@
-﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
-  vector3D.cpp
-  net.cpp
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\vector3D.cpp(7,11): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\vector3D.cpp(101,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\vector3D.cpp(101,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\vector3D.cpp(121,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\vector3D.cpp(134,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\vector3D.cpp(164,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\net.cpp(47,16): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\net.cpp(189,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
-  objects.cpp
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(37,11): warning C4305: '=': truncation from 'double' to 'float'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(40,19): warning C4305: '=': truncation from 'double' to 'float'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(48,56): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(75,22): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(77,10): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(78,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(117,75): warning C4305: '=': truncation from 'double' to 'float'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(118,77): warning C4305: '=': truncation from 'double' to 'float'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(127,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(128,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(130,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(146,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(206,45): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(228,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(291,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(299,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(299,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(372,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(372,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(405,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(405,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(472,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(483,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(494,6): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(499,6): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(505,6): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\objects.cpp(518,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  quaternion.cpp
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\quaternion.cpp(64,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\quaternion.cpp(96,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\quaternion.cpp(103,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-  graphics.cpp
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(57,40): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(142,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(147,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(148,41): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(149,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(151,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(152,136): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(152,117): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(152,87): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(152,45): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(153,28): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(153,28): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(153,56): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(153,56): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(153,90): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(153,90): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(156,56): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(156,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(156,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(163,33): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(163,33): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(163,63): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(163,63): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(163,93): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(163,93): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(352,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(393,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(394,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(396,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(397,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(403,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(404,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(407,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(410,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(415,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(416,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(418,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(419,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(430,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(431,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(432,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(433,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+﻿cl : wiersz polecenia  warning D9035: Opcja "Gm" jest przestarzała i będzie usunięta w przyszłych wydaniach
   main.cpp
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\main.cpp(19,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\main.cpp(139,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\main.cpp(141,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\main.cpp(358,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\main.cpp(421,60): warning C4305: '/=': truncation from 'double' to 'float'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\main.cpp(428,58): warning C4305: '*=': truncation from 'double' to 'float'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\main.cpp(454,32): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\main.cpp(459,32): warning C4305: '-=': truncation from 'double' to 'float'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\main.cpp(480,20): warning C4305: '/=': truncation from 'double' to 'float'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\main.cpp(488,20): warning C4305: '*=': truncation from 'double' to 'float'
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\main.cpp(499,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\main.cpp(500,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\main.cpp(501,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\main.cpp(505,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\main.cpp(506,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\main.cpp(507,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\main.cpp(513,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  Generating Code...
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\main.cpp(581,1): warning C4715: 'WndProc': not all control paths return a value
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\graphics.cpp(74,1): warning C4715: 'GraphicsInitialisation': not all control paths return a value
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\net.cpp(194,1): warning C4715: 'unicast_net::send': not all control paths return a value
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\net.cpp(203,1): warning C4715: 'unicast_net::send': not all control paths return a value
-C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\net.cpp(218,1): warning C4715: 'unicast_net::reciv': not all control paths return a value
-main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
-  wzr_vis.vcxproj -> C:\Mac\Home\Documents\1_STUDIA\SEM6\Wirtualne zespoły robocze\Lab1\Debug\wzr_vis.exe
+C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\main.cpp(19,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\main.cpp(184,39): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\main.cpp(186,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\main.cpp(403,50): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\main.cpp(466,60): warning C4305: "/=": obcięcie z "double" do "float"
+C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\main.cpp(473,58): warning C4305: "*=": obcięcie z "double" do "float"
+C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\main.cpp(499,32): warning C4305: "+=": obcięcie z "double" do "float"
+C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\main.cpp(504,32): warning C4305: "-=": obcięcie z "double" do "float"
+C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\main.cpp(525,20): warning C4305: "/=": obcięcie z "double" do "float"
+C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\main.cpp(533,20): warning C4305: "*=": obcięcie z "double" do "float"
+C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\main.cpp(544,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\main.cpp(545,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\main.cpp(546,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\main.cpp(550,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\main.cpp(551,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\main.cpp(552,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\main.cpp(558,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\main.cpp(626,1): warning C4715: "WndProc”: niewszystkie ścieżki kodu zwracają wartość
+  wzr_vis.vcxproj -> C:\Users\Giki\Documents\PG\SEM6\WZR\lab1\cpp_cars_multiplayer_game\Debug\wzr_vis.exe
